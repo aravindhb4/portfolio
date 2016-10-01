@@ -1,2 +1,0 @@
-# portfolio
-Udacity FEND portfolio
