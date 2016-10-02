@@ -1,12 +1,12 @@
+* {
+	box-sizing: border-box;
+}
+
 @import url(http://weloveiconfonts.com/api/?family=zocial);
 
 /* zocial */
 [class*="zocial-"]:before {
   font-family: 'zocial', sans-serif;
-}
-
-* {
-	box-sizing: border-box;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -26,6 +26,7 @@ figure {
 
 footer {
 	width: 50%;
+	height: auto;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
@@ -284,7 +285,7 @@ a {
 	.text-right {
 		text-align: center;
 	}
-	
+
 	/*make works to display one by one in small screen*/
 	.work {
 		width: 80%;
